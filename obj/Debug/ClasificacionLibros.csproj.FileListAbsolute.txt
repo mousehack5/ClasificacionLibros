@@ -1,0 +1,31 @@
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.csprojResolveAssemblyReference.cache
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.GUI.frmlibros.resources
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.csproj.GenerateResource.Cache
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\ClasificacionLibros.exe
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\ClasificacionLibros.pdb
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\MySql.Data.dll
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.exe
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.pdb
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\Interop.CrystalActiveXReportViewerLib14.dll
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.csproj.ResolveComReference.cache
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\ClasificacionLibros.exe.config
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\Interop.CrystalActiveXReportViewerLib14.dll
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\Mousepower\Documents\SharpDevelop Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+C:\Users\Mousepower\Documents\Visual Studio 2010\Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\ClasificacionLibros.exe.config
+C:\Users\Mousepower\Documents\Visual Studio 2010\Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.csproj.ResolveComReference.cache
+C:\Users\Mousepower\Documents\Visual Studio 2010\Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.exe
+C:\Users\Mousepower\Documents\Visual Studio 2010\Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.pdb
+C:\Users\Mousepower\Documents\Visual Studio 2010\Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\ClasificacionLibros.exe
+C:\Users\Mousepower\Documents\Visual Studio 2010\Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\ClasificacionLibros.pdb
+C:\Users\Mousepower\Documents\Visual Studio 2010\Projects\ClasificacionLibrosSolucion\ClasificacionLibros\bin\Debug\MySql.Data.dll
+C:\Users\Mousepower\Documents\Visual Studio 2010\Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.csprojResolveAssemblyReference.cache
+C:\Users\Mousepower\Documents\Visual Studio 2010\Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.GUI.frmlibros.resources
+C:\Users\Mousepower\Documents\Visual Studio 2010\Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.csproj.GenerateResource.Cache
+C:\Users\Mousepower\Documents\Visual Studio 2010\Projects\ClasificacionLibrosSolucion\ClasificacionLibros\obj\Debug\ClasificacionLibros.GUI.frmCrystalReports.resources
